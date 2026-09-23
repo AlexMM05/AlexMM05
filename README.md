@@ -56,14 +56,14 @@ Soy **Alejandro Martínez Mora**, desarrollador de software con una base sólida
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexMM05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMM05&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AlexMM05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AlexMM05&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexMM05&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=AlexMM05&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
 </div>
 
 ---
